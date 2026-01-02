@@ -1,0 +1,1042 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "TurboSquid Stem Converter v1.0.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 15050,
+      "type": "VEC3",
+      "max": [
+        16.034931182861328,
+        12.463093757629395,
+        40.573211669921875
+      ],
+      "min": [
+        -16.034931182861328,
+        -12.463093757629395,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 15050,
+      "type": "VEC3",
+      "max": [
+        0.9999825358390808,
+        0.9999797344207764,
+        0.9995920658111572
+      ],
+      "min": [
+        -0.9999796748161316,
+        -0.9999785423278809,
+        -0.9999006390571594
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 15050,
+      "type": "VEC2",
+      "max": [
+        0.9980000257492065,
+        0.9980000257492065
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.03240001201629639
+      ]
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 82500,
+      "type": "SCALAR",
+      "max": [
+        15049.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 250,
+      "type": "VEC3",
+      "max": [
+        12.865669250488281,
+        0.18242549896240234,
+        1.6645355224609375
+      ],
+      "min": [
+        12.47584342956543,
+        -0.12985481321811676,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 250,
+      "type": "VEC3",
+      "max": [
+        0.9991621375083923,
+        0.9991612434387207,
+        0.9851772785186768
+      ],
+      "min": [
+        -0.9981418251991272,
+        -0.9992807507514954,
+        -0.9851773977279663
+      ]
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 250,
+      "type": "VEC2",
+      "max": [
+        0.04989999905228615,
+        0.9980000257492065
+      ],
+      "min": [
+        0.03819999843835831,
+        0.9818000197410583
+      ]
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 1248,
+      "type": "SCALAR",
+      "max": [
+        249.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 665,
+      "type": "VEC3",
+      "max": [
+        12.474445343017578,
+        0.03929702192544937,
+        0.2438174933195114
+      ],
+      "min": [
+        12.28154182434082,
+        -0.03658989444375038,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 665,
+      "type": "VEC3",
+      "max": [
+        0.9877570867538452,
+        0.9997232556343079,
+        0.9990209937095642
+      ],
+      "min": [
+        -0.9850715398788452,
+        -0.9995042681694031,
+        -0.9983568787574768
+      ]
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 665,
+      "type": "VEC2",
+      "max": [
+        0.09319999814033508,
+        0.9980000257492065
+      ],
+      "min": [
+        0.0778999999165535,
+        0.9916999936103821
+      ]
+    },
+    {
+      "bufferView": 11,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 3072,
+      "type": "SCALAR",
+      "max": [
+        664.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 440,
+      "type": "VEC3",
+      "max": [
+        12.555660247802734,
+        0.17578867077827454,
+        0.3975979685783386
+      ],
+      "min": [
+        12.343805313110352,
+        -0.19665975868701935,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 440,
+      "type": "VEC3",
+      "max": [
+        0.9990376234054565,
+        0.9995354413986206,
+        0.9983325600624084
+      ],
+      "min": [
+        -0.9995453357696533,
+        -0.9965348839759827,
+        -0.998028039932251
+      ]
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 440,
+      "type": "VEC2",
+      "max": [
+        0.07419999688863754,
+        0.9980000257492065
+      ],
+      "min": [
+        0.06199999898672104,
+        0.9933000206947327
+      ]
+    },
+    {
+      "bufferView": 15,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 2328,
+      "type": "SCALAR",
+      "max": [
+        439.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 418,
+      "type": "VEC3",
+      "max": [
+        12.342408180236816,
+        0.1343958079814911,
+        0.3658978044986725
+      ],
+      "min": [
+        12.142691612243652,
+        -0.11352472007274628,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 17,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 418,
+      "type": "VEC3",
+      "max": [
+        0.9992883801460266,
+        0.9986699819564819,
+        0.9988884925842285
+      ],
+      "min": [
+        -0.9935676455497742,
+        -0.9963799715042114,
+        -0.9983670115470886
+      ]
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 418,
+      "type": "VEC2",
+      "max": [
+        0.05779999867081642,
+        0.9980000257492065
+      ],
+      "min": [
+        0.054099999368190765,
+        0.9897000193595886
+      ]
+    },
+    {
+      "bufferView": 19,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 2160,
+      "type": "SCALAR",
+      "max": [
+        417.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 11453,
+      "type": "VEC3",
+      "max": [
+        20.990882873535156,
+        11.509747505187988,
+        44.62788009643555
+      ],
+      "min": [
+        -20.94891929626465,
+        -11.47982406616211,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 21,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 11453,
+      "type": "VEC3",
+      "max": [
+        0.9999938011169434,
+        0.9999808073043823,
+        0.9995587468147278
+      ],
+      "min": [
+        -0.9998895525932312,
+        -0.9999805092811584,
+        -0.9990522861480713
+      ]
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 11453,
+      "type": "VEC2",
+      "max": [
+        0.9444007873535156,
+        0.9980000257492065
+      ],
+      "min": [
+        0.0020000000949949026,
+        0.001999974250793457
+      ]
+    },
+    {
+      "bufferView": 23,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 61638,
+      "type": "SCALAR",
+      "max": [
+        11452.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1210724,
+      "uri": "Womens_Skirt_TShirt_1.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 180600,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 180600,
+      "byteLength": 180600,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 361200,
+      "byteLength": 120400,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 481600,
+      "byteLength": 165000,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 646600,
+      "byteLength": 3000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 649600,
+      "byteLength": 3000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 652600,
+      "byteLength": 2000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 654600,
+      "byteLength": 2496,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 657096,
+      "byteLength": 7980,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 665076,
+      "byteLength": 7980,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 673056,
+      "byteLength": 5320,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 678376,
+      "byteLength": 6144,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 684520,
+      "byteLength": 5280,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 689800,
+      "byteLength": 5280,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 695080,
+      "byteLength": 3520,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 698600,
+      "byteLength": 4656,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 703256,
+      "byteLength": 5016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 708272,
+      "byteLength": 5016,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 713288,
+      "byteLength": 3344,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 716632,
+      "byteLength": 4320,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 720952,
+      "byteLength": 137436,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 858388,
+      "byteLength": 137436,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 995824,
+      "byteLength": 91624,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1087448,
+      "byteLength": 123276,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "Skirt_2_01",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "occlusionTexture": {
+        "index": 1
+      },
+      "normalTexture": {
+        "index": 2
+      }
+    },
+    {
+      "name": "Womens_TShirt_01",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      },
+      "alphaMode": "OPAQUE",
+      "occlusionTexture": {
+        "index": 4
+      },
+      "normalTexture": {
+        "index": 5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Skirt_2_001",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 3,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_004",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 7,
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_002",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 11,
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_003",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 15,
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_001",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 19,
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Womens_TShirt_1_001",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 23,
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Womens_Skirt_TShirt_1_$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.371138828673793e-08,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        -4.371138828673793e-08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "Womens_Skirt_TShirt_1_$_GeometricTranslation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -9.5367431640625e-07,
+        0.0,
+        44.1458854675293,
+        1.0
+      ],
+      "children": [
+        3
+      ]
+    },
+    {
+      "name": "Womens_Skirt_TShirt_1",
+      "children": [
+        4
+      ]
+    },
+    {
+      "name": "Womens_Skirt_TShirt_1_$_GeometricTranslationInverse",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        9.5367431640625e-07,
+        -0.0,
+        -44.1458854675293,
+        1.0
+      ],
+      "children": [
+        5,
+        19
+      ]
+    },
+    {
+      "name": "Skirt_2_$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.5549755096435547,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [
+        6
+      ]
+    },
+    {
+      "name": "Skirt_2_$_GeometricTranslation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        20.286602020263672,
+        1.0
+      ],
+      "children": [
+        7
+      ]
+    },
+    {
+      "name": "Skirt_2",
+      "children": [
+        8
+      ]
+    },
+    {
+      "name": "Skirt_2_$_GeometricTranslationInverse",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.0,
+        -0.0,
+        -20.286602020263672,
+        1.0
+      ],
+      "children": [
+        9,
+        11,
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "name": "node",
+      "children": [
+        10
+      ]
+    },
+    {
+      "name": "Skirt_2_001",
+      "mesh": 0
+    },
+    {
+      "name": "node_0",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -2.4563632905483246e-07,
+        37.99689865112305,
+        1.0
+      ],
+      "children": [
+        12
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_004",
+      "mesh": 1
+    },
+    {
+      "name": "node_1",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -2.4563632905483246e-07,
+        39.79487228393555,
+        1.0
+      ],
+      "children": [
+        14
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_002",
+      "mesh": 2
+    },
+    {
+      "name": "node_2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -2.4563632905483246e-07,
+        39.532283782958984,
+        1.0
+      ],
+      "children": [
+        16
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_003",
+      "mesh": 3
+    },
+    {
+      "name": "node_3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -2.4563632905483246e-07,
+        39.98043441772461,
+        1.0
+      ],
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "Skirt_2_Zipper_001",
+      "mesh": 4
+    },
+    {
+      "name": "node_4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.02098226547241211,
+        -0.015632152557373047,
+        43.66389083862305,
+        1.0
+      ],
+      "children": [
+        20
+      ]
+    },
+    {
+      "name": "Womens_TShirt_1_001",
+      "mesh": 5
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0,
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/baseColor.jpg"
+    },
+    {
+      "uri": "textures/occlusionRoughnessMetallic.jpg"
+    },
+    {
+      "uri": "textures/normal.png"
+    },
+    {
+      "uri": "textures/baseColor-Womens_TShirt_01.jpg"
+    },
+    {
+      "uri": "textures/occlusionRoughnessMetallic-Womens_TShirt_01.jpg"
+    },
+    {
+      "uri": "textures/normal-Womens_TShirt_01.png"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
